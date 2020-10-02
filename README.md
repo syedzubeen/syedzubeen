@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**syedzubeen/syedzubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hola I'm Syed Zubeen
 
 - 🔭 I’m currently working on Cryptographic Algorithms
 - 🌱 I’m currently learning Dart
