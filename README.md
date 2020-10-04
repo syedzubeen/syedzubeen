@@ -22,4 +22,4 @@
 [Facebook]: https://www.facebook.com/syed.zubeen
 [Linkedin]: https://www.linkedin.com/in/syedzubeen/
 [Twitter]: https://twitter.com/ZubeenSyed
-[Twitter]: https://www.instagram.com/zubeensyed
+[Instagram]: https://www.instagram.com/zubeensyed
