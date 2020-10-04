@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cryptographic Algorithms
 - 🌱 I’m currently learning Dart
 - 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with learning obfuscation
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: Twitter @zubeensyed
 - 😄 Pronouns: He/His
@@ -11,8 +11,9 @@
 
 
 # Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> [Facebook] <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 
 
 
+[Facebook] https://www.facebook.com/syed.zubeen
