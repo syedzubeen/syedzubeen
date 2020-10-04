@@ -1,6 +1,6 @@
 # Hola, I'm Syed Zubeen
 
-![Alt Text](http://gph.is/2j1972Q)
+![alt-text](http://gph.is/2j1972Q)
 
 - 🔭 I’m currently working on Cryptographic Algorithms
 - 🌱 I’m currently learning Dart
