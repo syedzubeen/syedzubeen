@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with learning obfuscation
 - 💬 Ask me about anything related to tech
-- 📫 How to reach me: Twitter @zubeensyed
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to encrypt anything and everything 
 
