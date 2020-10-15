@@ -3,7 +3,7 @@
 ![alt-text](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
 - 🔭 I’m currently working on Cryptographic Algorithms
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Dart with Flutter
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with learning obfuscation
 - 💬 Ask me about anything related to tech
