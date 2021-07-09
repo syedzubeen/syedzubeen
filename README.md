@@ -1,4 +1,4 @@
-# Hola, I'm Syed Zubeen
+# Hola, I'm Zubeen
 
 ![alt-text](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
