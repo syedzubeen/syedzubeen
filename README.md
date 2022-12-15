@@ -11,12 +11,12 @@
 ![alt-text](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
 - 🔭 I’m currently working on Cryptographic Algorithms
-- 🌱 Currently learning Dart with Flutter
+- 🌱 Currently learning Dart & Flutter
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with learning obfuscation
 - 💬 Ask me about anything related to tech
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to encrypt anything and everything 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like exploring ways to encrypt anything and everything 
 
 
 
