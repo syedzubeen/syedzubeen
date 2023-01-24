@@ -20,10 +20,10 @@
 ![alt-text](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on Cryptographic Algorithms
+- 🔭 I’m currently working on the implementation of Cryptographic Algorithms
 - 🌱 Currently learning Dart & Flutter
-- 👯 Would love to collaborate on Youtube
-- 🤔 I’m looking for ideas around the intersection of NLP and Cryptography
+- 👯 Would love to collaborate on any Flutter/Go/NLP Project
+- 🤔 Looking for ideas around the intersection of NLP and Cryptography
 - 💬 Ask me about anything related to tech
 
 - ⚡ Fun fact: I like exploring ways to encrypt anything and everything 
