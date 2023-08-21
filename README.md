@@ -7,6 +7,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syedzubeen.syedzubeen)
 [![Linkedin: Syed Zubeen](https://img.shields.io/badge/LinkedIn--brightgreen?style=flat&logoColor=red&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsyedzubeen%2F)](https://www.linkedin.com/in/syedzubeen/)
+[![Twitter: Syed Zubeen](https://img.shields.io/badge/Twitter--red?style=flat&logoColor=red&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsyedzubeen%2F)](https://twitter.com/ZubeenSyed)
 
 
 ![alt-text](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
@@ -18,13 +19,4 @@
 - 🤔 Looking for ideas around the intersection of NLP and Cryptography
 - 💬 Ask me about anything related to tech
 
-- ⚡ Fun fact: Did you know that the term 'bug' in computer science originated from an actual insect? In 1947, Grace Hopper, a computer scientist, found a moth inside a computer relay and referred to it as the 'first actual case' of a computer bug. Ever since, 'debugging' has been a common term for fixing software issues. 
-
-
-
-
-
-
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-
-[Twitter]: https://twitter.com/ZubeenSyed
+- ⚡ Fun fact: Did you know that the term 'bug' in computer science originated from an actual insect? In 1947, Grace Hopper, a computer scientist, found a moth inside a computer relay and referred to it as the 'first actual case' of a computer bug. Ever since 'debugging' has been a common term for fixing software issues. 
