@@ -28,5 +28,6 @@
 
 - ⚡ Fun fact: I like exploring ways to encrypt anything and everything 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syedzubeen.syedzubeen)
 
 
