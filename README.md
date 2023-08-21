@@ -6,7 +6,7 @@
 </h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syedzubeen.syedzubeen)
-
+[![Linkedin: Syed Zubeen](https://img.shields.io/badge/LinkedIn--brightgreen?style=flat&logoColor=red&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsyedzubeen%2F)](https://www.linkedin.com/in/syedzubeen/)
 
 
 ![alt-text](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)
@@ -23,10 +23,8 @@
 
 
 
-### Reach out to me:
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]&nbsp;&nbsp;&nbsp;&nbsp;
+
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
-[Linkedin]: https://www.linkedin.com/in/syedzubeen/
 [Twitter]: https://twitter.com/ZubeenSyed
